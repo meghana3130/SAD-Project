@@ -1,0 +1,4 @@
+https://github.com/spring-projects/spring-petclinic
+https://github.com/android/architecture-samples
+https://github.com/xceedsoftware/wpftoolkit
+https://github.com/cloudfoundry-samples/rails_sample_app
